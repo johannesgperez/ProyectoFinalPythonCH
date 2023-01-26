@@ -38,7 +38,7 @@ Nota: La opción de editar y eliminar instrumentos musicales solo le está permi
 
 ## Pruebas Realizadas
 
-Ver archivo titulado "Pruebas Proyecto Python CH.xlsx" el cual se encuentra en el presente repositorio https://github.com/johannesgperez/ProyectoFinalMain.git
+Ver archivo titulado "Pruebas Proyecto Python CH.xlsx" el cual se encuentra en el presente repositorio https://github.com/johannesgperez/ProyectoFinalPythonCH.git
 
 ## Video Demostración
 
